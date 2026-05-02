@@ -1,16 +1,61 @@
-# React + Vite
+# ⏰ Color Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that displays the current date and time using the **date-fns** library.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Shows the current date and time
+* Uses date-fns for formatting
+* Basic styling applied
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* JavaScript
+* CSS
+* date-fns
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/color-clock.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd color-clock
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the app:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open in browser:
+
+   ```
+   http://localhost:5173/
+   ```
+
+## 🌐 Live Demo
+(https://inroduction-to-react-lab-day-1.vercel.app/)
+
+Your Name
+Lynn Kigen
